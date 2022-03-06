@@ -1,5 +1,6 @@
 # This is the privacy policy for the following extensions published on the Chrome Web Store:
 
+# ‣ [meetings-page-auto-closer-for-zoom](https://chrome.google.com/webstore/detail/zoom-meetings-page-auto-c/edflihlonecjkejpbajecilgmopegldj)
 # ‣ [zoom-meetings-page-auto-closer](https://chrome.google.com/webstore/detail/zoom-meetings-page-auto-c/edflihlonecjkejpbajecilgmopegldj)
 # ‣ [event-announcer-for-google-calendar](https://chrome.google.com/webstore/detail/event-announcer-for-googl/omnfbocfmnnccndhmapalklmbejkgaoj)
 
